@@ -15188,8 +15188,8 @@ const fs = require("fs");
 require("dotenv").config();
 
 const config = {
-  SESSION_ID: process.env.SESSION_ID || "Your Session Id",
-  PREFIX: process.env.PREFIX || '.',
+  SESSION_ID: process.env.SESSION_ID || "Bmwmd$ApG4SFEA",
+  PREFIX: process.env.PREFIX || ',',
   AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN !== undefined ? process.env.AUTO_STATUS_SEEN === 'true' : true, 
   AUTO_DL: process.env.AUTO_DL !== undefined ? process.env.AUTO_DL === 'true' : false,
   AUTO_READ: process.env.AUTO_READ !== undefined ? process.env.AUTO_READ === 'true' : false,
@@ -15204,9 +15204,9 @@ const config = {
   REJECT_CALL: process.env.REJECT_CALL !== undefined ? process.env.REJECT_CALL === 'true' : false, 
   NOT_ALLOW: process.env.NOT_ALLOW !== undefined ? process.env.NOT_ALLOW === 'true' : true,
   MODE: process.env.MODE || "public",
-  OWNER_NAME: process.env.OWNER_NAME || "©Ibrahim Adams",
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "254710772666",
-  GEMINI_KEY: process.env.GEMINI_KEY || "AIzaSyCUPaxfIdZawsKZKqCqJcC-GWiQPCXKTDc",
+  OWNER_NAME: process.env.OWNER_NAME || "©swati king",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "03409068757",
+  GEMINI_KEY: process.env.GEMINI_KEY || "HRKU-2afb1ad9-1a5b-4a3a-b011-dfd3576177f9",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false, 
 };
 
